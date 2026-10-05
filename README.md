@@ -1,11 +1,22 @@
-Cómo se ejecuta el software
+Guía fácil: Cómo abrir y usar el programa
+Sigue estos sencillos pasos para poner en marcha la aplicación en tu computadora.
 
-1.Guardar el archivo del programa con el nombre index.html.
-2.Ubicarlo en una carpeta de fácil acceso (Escritorio o Documentos).
-3.Hacer doble clic sobre index.html.
-4.El programa se abrirá en el navegador predeterminado (Chrome, Edge o Firefox).
-5.Hacer clic en el botón Solicitar saludo.
-6.Completar los campos solicitados: nombre, edad, hora (1 a 12) y periodo (AM/PM).
-7.Hacer clic en Enviar datos.
-8.El sistema mostrará un saludo con el nombre, la edad y la hora indicada.
-No se requiere instalación, ni conexión a internet, ni comandos en terminal. El único requisito es un navegador web.
+Paso 1: Abrir la carpeta en Visual Studio Code
+1. Abre el programa Visual Studio Code.
+2. Ve al menú de arriba y haz clic en Archivo (File) ➔ Abrir carpeta (Open Folder).
+3. Selecciona la carpeta donde tienes guardado este proyecto.
+   
+Paso 2: Abrir la consola de comandos (Terminal)
+1. En el menú superior de Visual Studio Code, haz clic en Terminal ➔ Nueva terminal (New Terminal).
+2. Verás que se abre una sección con fondo negro en la parte inferior de la pantalla.
+   
+Paso 3: Escribir el comando de arranque
+1. Haz un clic dentro de esa sección negra de abajo para poder escribir.
+2. Copia y pega el siguiente comando exacto y luego presiona la tecla Enter:bat
+.\mvnw.cmd javafx:run
+Usa el código con precaución.
+
+Paso 4: ¡Listo! Usa el programa
+• Si es la primera vez que lo abres, el programa tardará unos pocos segundos en preparar todo de forma automática.
+• De inmediato se abrirá una ventana blanca con el título "Saludo al estudiante".
+• Ya puedes usar los botones para rellenar los datos, guardar tu información en la PC o abrir archivos guardados previamente.
