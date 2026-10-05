@@ -1,0 +1,8 @@
+Reflexión: Mi primera vez con Java, JavaFX y Cursor
+Hacer esta aplicación fue un gran salto para mí. Siendo mi primera vez programando con Java, creando pantallas con JavaFX y usando el editor Cursor, el proceso estuvo lleno de subidas y bajadas, pero el resultado valió totalmente la pena.
+ RETOS
+El verdadero dolor de cabeza fue lograr que todo encajara. Al principio, entender cómo conectar la interfaz gráfica (los botones y el formulario) con la lógica interna del programa fue un laberinto. Configurar Maven para que cargara las librerías correctas y hacer que el sistema guardara y abriera los archivos *.est sin romperse me costó varios intentos y frustraciones.
+ DESCUBRIMIENTOS
+Descubrí que programar interfaces visuales es muy entretenido cuando entiendes cómo reacciona cada botón a los clics del usuario. Pero mi mejor descubrimiento fue Cursor. Usar este editor con IA fue como tener un compañero experto al lado; no me regaló el código, sino que me ayudó a entender los errores de la consola al instante y a escribir funciones mucho más limpias y ordenadas.
+SORPRESAS
+Lo que más me sorprendió fue lo rápido que pasé de una pantalla negra a un programa real que se ve moderno y funciona bien. Ver que la aplicación de verdad crea un archivo en mi computadora, guarda los datos del estudiante y luego es capaz de leerlos automáticamente con solo abrirlo, me pareció increíble para ser mi primer proyecto.
