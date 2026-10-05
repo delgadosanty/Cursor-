@@ -1,4 +1,4 @@
-Prompts utilizados (uso socrático de IA)
+Prompts utilizados
 
 Prompt 1.
 Antes de escribir código, ayúdame a descomponer el problema. Si un estudiante solicita un saludo, ¿qué datos mínimos debe pedir el sistema y en qué orden conviene solicitarlos para que el flujo sea claro?
